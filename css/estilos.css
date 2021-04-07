@@ -1,0 +1,62 @@
+
+.productoBorder{
+  position: relative;
+   border: solid rgba(27, 87, 19, 0.59);
+   background: #b3d7df42 ;
+   border-radius: 5px;
+}
+.productoImagen{
+    width:250px;
+    height:250px;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+.productoTitulo{
+    font-size: 2em;
+    text-align: center;
+}
+.productoPrecio{
+    font-size: 20px;
+    color: rgb(37, 37, 128);
+    text-align: center;
+}
+.productoButton{
+    position: relative;
+    left: 15%;
+    border:none;
+    border-radius: 10px;
+    font-size: 25px;
+    background: rgb(73, 6, 6);
+    color: white;
+}
+#productoDetalleButton{
+    position: relative;
+    left: 35%;
+    border:none;
+    border-radius: 10px;
+    font-size: 25px;
+    background: rgb(73, 6, 6);
+    color: white;
+}
+
+#menu{
+    font-family:Arial;
+    font-weight:bold;
+    font-size:13px;   
+    list-style-type: none;
+}
+#menu li{
+
+    float: left;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.titulos{
+    font-size: 3em;
+    text-align: center;
+    box-shadow: 2px 2px 5px #999;
+}
+#detalles{
+    text-align: center;
+}
